@@ -8,7 +8,10 @@ public class DemoApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(DemoApplication.class, args);
-		System.out.print("Hello my Project"); 
+		int x =1;
+		System.out.print("Hello My Project"); 
+		System.out.print(x); 
+		
 	}
 
 }
